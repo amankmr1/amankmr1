@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **Byjus**
 
-- 👯 I’m looking to collaborate on [BlurDialogFragment](https://github.com/amanzan/BlurDialogFragment)
-
 - 📝 I regularly write articles on [https://amankumar.dev](https://amankumar.dev)
 
 - 💬 Ask me about **Android, Kotlin**
