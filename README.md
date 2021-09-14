@@ -2,7 +2,7 @@
 
 *A passionate Android Developer | Android Enthusiast | Open-Source Contributor*
 
-![](https://komarev.com/ghpvc/?username=amankumar367)
+![](https://komarev.com/ghpvc/?username=amankmr1)
 
 - 🔭 &nbsp;&nbsp; I’m currently working on [Byjus](https://play.google.com/store/apps/details?id=com.byjus.thelearningapp)
 - 📝 &nbsp;&nbsp;  I regularly write articles on [https://amankumar.dev](https://amankumar.dev)
@@ -12,8 +12,8 @@
 <br />
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/amankumar367/amankumar367">
-  <img align="center" alt="aman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amankumar367&show-icons=true&hide_border=true" />
+<a href="https://github.com/amankmr1/amankmr1">
+  <img align="center" alt="aman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amankmr1&show-icons=true&hide_border=true" />
 </a>
 
 #### Connect with me on Internet:
