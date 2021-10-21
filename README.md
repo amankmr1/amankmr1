@@ -9,16 +9,6 @@
 - 💬 &nbsp;&nbsp;  Ask me about **Android, Kotlin**
 - 📫  &nbsp;&nbsp; How to reach me **kumaraman367@gmail.com**
 
-<br />
-
-<!--
-
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/amankmr1/amankmr1">
-  <img align="center" alt="aman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amankumar367&show-icons=true&hide_border=true" />
-</a> 
-
--->
 
 ##
 
